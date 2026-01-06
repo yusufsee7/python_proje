@@ -69,7 +69,7 @@ The following charts were created:
 
 Open the terminal in the project folder and run:
 
-• python3 m7_yogunluk.py
+• python3 m7_24hours_density.py
 
 
 <!-- Results -->
